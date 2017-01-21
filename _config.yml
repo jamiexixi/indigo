@@ -1,16 +1,16 @@
 # main text of home
-name: Demo account
+name: Huang Jingxi
 bio: my new tagline
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: jamie's webstite
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/analytics.jpg
 
-url: https://hupilidemo.github.io/indigo
+url: https://jamiexixi.github.io/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
