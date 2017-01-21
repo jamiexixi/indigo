@@ -1,14 +1,14 @@
 # main text of home
-name: Demo account
-bio: my new tagline
+name: data journalism
+bio: hello
 
 # twitter summary info
-description: A blog about technology and stuff related
+description:hihihihihi
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/analytics.jpg
+picture: https://github.com/jamiexixi/indigo/blob/f6c73d7f709e844c70a75e4c6db64ce2d956e7e8/%E4%B8%8B%E8%BC%89.jpeg?raw=true
 
 url: https://hupilidemo.github.io/indigo
 # your url: http://USERNAME.github.io
