@@ -8,7 +8,7 @@ description: hello
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: indigo/assets/images/下載.jpeg
+picture: assets/images/下載.jpeg
 
 url: https://jamiexixi.github.io/indigo
 # your url: http://USERNAME.github.io
