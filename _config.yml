@@ -7,7 +7,7 @@ description: jamiexixi
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/jamie.jpeg
 
 url: https://jamiexixi.github.io/indigo
@@ -39,19 +39,19 @@ github: jamiexixi
 
 email: jamiexixi@gmail.com
 
-#authors:
-  #  johndoe:
-   #     name: John Doe
-    #    bio: A Man who travels the world eating noodles
-     #   external-image: false
-      #  picture: assets/images/profile.jpg
-       # twitter: johndoe
-    #jamesfoster:
-     #   name: James Foster
-      #  bio: A Man who develops software with coffee
-       # external-image: false
-        #picture: assets/images/james.jpg
-        #twitter: jamesfoster
+authors:
+    johndoe:
+      name: John Doe
+        bio: A Man who travels the world eating noodles
+        external-image: false
+       picture: assets/images/profile.jpg
+       twitter: johndoe
+    jamesfoster:
+     #  name: James Foster
+      # bio: A Man who develops software with coffee
+        external-image: false
+        picture: assets/images/james.jpg
+        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
