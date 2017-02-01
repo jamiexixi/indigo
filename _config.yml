@@ -1,6 +1,6 @@
 # main text of home
 name: Jamie
-bio: my new tagline
+bio: 
 
 # twitter summary info
 description: Jamie's page
@@ -29,16 +29,13 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: www.facebook.com/jamie.jingxi.huang
-weibo: 
+facebook: jamie.jingxi.huang
+twitter: jamiexixi
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: www.linkedin.com/in/jingxi-huang-jamie
+linkedin: jingxi-huang-jamie
 
-github: mygithub
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
+github: jamiexixi
 
 email: jamiexixi@gmail.com
 
@@ -69,8 +66,8 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
-blog: true
+#about: false
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -79,7 +76,7 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-related: true
+#related: true
 
 # show next & prev links in blog post?
 blog-nav-links: false
