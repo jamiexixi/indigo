@@ -3,7 +3,7 @@ name: Jamie
 bio: my new tagline
 
 # twitter summary info
-description: hello
+description: Jamie's page
 
 # if it's an external image, update below for true
 # better with square images
@@ -29,21 +29,18 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
+facebook: www.facebook.com/jamie.jingxi.huang
+weibo: 
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
+linkedin: www.linkedin.com/in/jingxi-huang-jamie
+
 github: mygithub
 stackoverflow: 7044681/mystackoverflow
 quora: userquora
 reddit: username
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+
+email: jamiexixi@gmail.com
 
 authors:
     johndoe:
