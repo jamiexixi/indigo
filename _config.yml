@@ -3,7 +3,7 @@ name: Jingxi HUANG, Jamie
 bio: A Journalism Student Studying Data Visualisation
 
 # twitter summary info
-description: jamiexixi
+description:  A page about Jamie
 
 # if it's an external image, update below for true
 # better with square images
@@ -36,19 +36,19 @@ twitter: jamiexixi
 linkedin: jingxi-huang-jamie
 
 github: jamiexixi
-
 email: jamiexixi@gmail.com
+
 
 authors:
     johndoe:
-      name: John Doe
+        name: John Doe
         bio: A Man who travels the world eating noodles
         external-image: false
-       picture: assets/images/profile.jpg
-       twitter: johndoe
+        picture: assets/images/profile.jpg
+        twitter: johndoe
     jamesfoster:
-     #  name: James Foster
-      # bio: A Man who develops software with coffee
+        name: James Foster
+        bio: A Man who develops software with coffee
         external-image: false
         picture: assets/images/james.jpg
         twitter: jamesfoster
@@ -63,11 +63,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
-#about: false
-#blog: true
+about: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -76,7 +76,7 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-#related: true
+related: true
 
 # show next & prev links in blog post?
 blog-nav-links: false
